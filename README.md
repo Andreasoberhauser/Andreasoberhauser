@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Andreasoberhauser
-- 👀 I’m interested in finance and accounting
+- 👀 I’m interested in accounting and finance
 - 🌱 I’m currently learning R and Python
 - 💞️ I’m looking to collaborate on projects and learn new coding techniques
 - 📫 How to reach me via email: andreas.oberhauser@lmu.de
